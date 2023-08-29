@@ -2,7 +2,7 @@
 In the project directory, you can run:
 
 ### npm install
-  To install the project after cloning
+  To install all dependencies of the project after cloning
 
 ### `npm start`
 
